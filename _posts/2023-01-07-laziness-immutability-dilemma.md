@@ -137,18 +137,10 @@ The only difference between `peek` and `peek_mut` is their [return values](https
 * `peek_mut` returns a mutable reference to the `next()`
 
 
-## Generalising to other languages
+## Beyond Rust
 
 This issue might have gone unnoticed or could potentially cause more trouble in another programming language.
-In C#, there is this post by Jonas Elfström, namely [Lazy evaluation is no friend of mutable state](https://alicebobandmallory.com/articles/2011/01/01/lazy-evaluation-is-no-friend-of-mutable-state). 
-
-In the blog post the author says: 
-
-> I had a hunch that it was the mutable state of List<T> and the lazy evaluation of IEnumerable that was the problem but I couldn't quite figure out how. 
-
-After figuring out the issue, the author states that [mutable collections and lazy evaluation is a terrible mix](https://stackoverflow.com/questions/4545090/listt-and-ienumerable-difference/4545170#comment5010840_4565811).
-
-Unlike in C#, Rust's design decision on explicitly declaring the mutability information clearly identifies the issue. This is one feature I really like in Rust. It teaches you core concepts. It forces you to think about the design decisions and the trade-offs. Once you learn to think about these concepts, you use them in any language you write.
+Rust's design decision on explicitly declaring the mutability information clearly pinpoints to the issue. This is one aspect I really like in Rust. It teaches you core concepts. It forces you to think about the design decisions and the trade-offs. Once you learn to think about these concepts, you use them in any language you write.
 
 > Rust's borrowing rules enforce you to have either a single mutable reference or multiple immutable references to a value at a lifetime.
 {: .prompt-info }
