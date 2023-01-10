@@ -13,7 +13,7 @@ I learned that there is a laziness-immutability dilemma not only in Rust but als
 
 I was solving the Advent of Code 2022 challenges to learn Rust. The Advent of Code questions have a good coverage of various programming concepts and thus good for learning a new language.
 
-In one of the challenges I was trying to read some input data line by line in a lazy fashion using this code. I chose this approach because I wanted to avoid reading the whole input file into memory at once.
+In one of the challenges I was trying to read some input data line by line in a lazy fashion using this code.
 
 ```rust
 
@@ -34,7 +34,7 @@ I did not put the `mut` keyword at first, but the compiler was complaining about
 
 
 
-The `peek` method was supposed to just "peek" into the collection and not to consume it - as its name suggests.  
+The `peek` method was supposed to just "peek" into the iterator and not to consume it - as its name suggests.
 In the documentation however, it is stated that the `peek` method mutably borrows the `self` argument.
 
 Here is the implementation of the `peek` method from its [source](https://doc.rust-lang.org/stable/src/core/iter/adapters/peekable.rs.html#214):
@@ -68,7 +68,7 @@ Short answer
 Long answer
 : let's see how exactly laziness is preventing us from using immutable references by reading the source code. Check [finomnis's answer](https://stackoverflow.com/a/74841610/1935611) for the full explanation.
 
-Below are the relevant parts of the source code of the `peek` method.
+Below are the relevant parts of the source code to the `peek` method.
 
 ```rust
 pub struct Peekable<I: Iterator> {
@@ -93,7 +93,7 @@ impl<I: Iterator> Iterator for Peekable<I> {
     // ...
 }
 ```
-_Implementation of the `next` method that gets called by the `peek` method_
+_Implementation of the `next` method_
 
 
 ```rust
