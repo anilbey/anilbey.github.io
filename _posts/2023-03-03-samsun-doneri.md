@@ -25,8 +25,8 @@ Gerçek bir zevk, asla unutulmayacak bir armağan.
 
 Sokakta satılan ya da restoranda yenilen,
 Döner hepimizi hayranlıkla selamlar, şaşırtır, mest eder,
-Yemeklerin hazinesi, her lokması keyif verici,
-Yiyene can veren, bir lezzet serüveni.
+Yiğitlerin tercihi, fakirin dostu,
+Herkesin gözdesi, Samsunlu'nun gururu.
 
 Gel, tadına bak bu lezzetli şölene,
 Samsun'da gözlerini kapatacağın bir keyfe,
