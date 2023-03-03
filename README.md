@@ -33,7 +33,15 @@ $ bundle
 
 ## Usage
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+Use the following command to start the Jekyll server:
+
+```
+$ bundle exec jekyll serve
+```
+
+Then open your browser and visit `http://localhost:4000/` to preview your site.
+
+Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation) for more information.
 
 ## License
 
