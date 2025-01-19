@@ -266,7 +266,7 @@ Burada farklı dillerde ses kayıtları ve o kayıtların yazılı metinleri var
 {%
   include embed/audio.html
   src='assets/audio/posts/atayurt-gezileri-1/biz-bu-üylerdü-satıp-alganmız.mp3'
-  types='ogg|wav|aac'
+  types='mp3'
   title='Biz bul üylerdü satıp alganbız'
 %}
 
