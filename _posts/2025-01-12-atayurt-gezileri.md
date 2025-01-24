@@ -51,7 +51,7 @@ Kırgızistan, Kazakistan veya Özbekistan'a gitmeden önce biraz hazırlık yap
 
 - Kırgızistan'da bir Türk gezgini iseniz İngilizce konuşmanızın pek bir karşılığı olmaz. Bunu yaptığınız durumda Amerikan turistlerden pek bir farkınız olmayacaktır. İngilizce size sınırlı sayıda kapılar açar.
 
-- Kırgızistan'da bir Türk gezgini iseniz Rusça konuşmanızın da pek bir karşılığı yok. Rusça da size sınırlı sayıda kapı açar. Pazarlarda, dükkanlarda satılanları sorup anlayabilirsiniz, bindiğiniz aracın nereye gittiğini sorabilirsiniz ama halkın kültür ve birikimine erişemezsiniz.
+- Kırgızistan'da bir Türk gezgini iseniz ve Rusça biliyorsanız, Rusça ülkenin ikinci resmi dili olduğundan hemen hemen her işinizi görebilirsiniz ancak Kırgız halkının kültürel birikimine erişemezsiniz. Çalan ırları (sözlü türküler) da yazan özlü sözleri de anlayamazsınız.
 
 - Kırgızistan'da bir Türk gezgini iseniz ve **bilinçli** biçimde Türkçe konuşmaya çalışırsanız, işte o zaman gerçek iletişim başlar. Karşılaştığınız insanlar sizi daha çok severler ve benzer biçimlerde size yanıt verirler. Hiç görmediğiniz akrabalarınızla ilk defa tanışmak gibidir. Bunu başardığınız ölçüde size kapılar açılır. Onlardan birisinizdir. Aynı dili konuşuyor, aynı birikimi paylaşıyorsunuzdur. Aynı tarihi yaşamışsınızdır. Size 'bır togan' (bir doğan) derler. Siz Aşık Veysel'den okursunuz onlar Toktogul Satılganov'dan okurlar. Atasözleriniz birdir. Gelenek görenekleriniz değişmemiştir.
 
