@@ -40,10 +40,11 @@ Aktaran: Arı Duru Türkçe
 
 Bu yazıda sizlere Mayıs 2024'te başladığım 20 günlük Atayurt gezisine çıkmadan önce yaptığım dil hazırlığından bahsedeceğim. Bişkek'ten başlayıp Hive'de sonlandırdığım gezimde Kırgızistan, Kazakistan ve Özbekistan'ı tek başıma gezip gördüm. Her gittiğim yerde iyi dostlar edindim, birçoğuyla beraber seyehat de ettik. Evlerine davet edildim, otağlarına davet edildim, düğünlerine davet edildim. Çoğuyla iletişimimiz hala sürmekte. İlk fırsatta tekrar gitmeyi düşünüyorum. Dile çalışıp gittiğim için her gittiğim yerde gezgin olduğum kadar aynı zamanda da oranın yerlisiydim.
 
-Döndüğümde pek çok arkadaşım gezide biriktirdiklerimden etkilenip kendileri de gidip görmek istediler. Bu yazıyı onlar ve benzer geziler yapmak isteyenler için yazıyorum.
-
+Döndüğümde pek çok arkadaşım gezide biriktirdiklerimden etkilenip kendileri de gidip görmek istediler. Bu yazıyı onlar ve benzer geziler yapmak isteyenler için yazıyorum. Yazının ilk bölümünde kısa sürede etkili iletişim kurabilmeniz için yapmanız gereken dil hazırlığından bahsedeceğim.
 Ben geziye çıktığımda böyle bir derleme yoktu. Bu boşluğu doldurmak için ben yazmaya karar verdim. İyi okumalar dilerim.
 
+![Bişkek-Tarih](/assets/img/posts/atayurt-gezileri-1/bişkek-müze-anıtı.jpg){: width="900" height="400" }
+_Bişkek Tarih Müzesi'nin görkemli girişi._
 
 ## Dil Hazırlığı
 
@@ -51,7 +52,7 @@ Kırgızistan, Kazakistan veya Özbekistan'a gitmeden önce biraz hazırlık yap
 
 - Kırgızistan'da bir Türk gezgini iseniz İngilizce konuşmanızın pek bir karşılığı olmaz. Bunu yaptığınız durumda Amerikan turistlerden pek bir farkınız olmayacaktır. İngilizce size sınırlı sayıda kapılar açar.
 
-- Kırgızistan'da bir Türk gezgini iseniz ve Rusça biliyorsanız, Rusça ülkenin ikinci resmi dili olduğundan hemen hemen her işinizi görebilirsiniz ancak Kırgız halkının kültürel birikimine erişemezsiniz. Çalan ırları (sözlü türküler) da yazan özlü sözleri de anlayamazsınız.
+- Kırgızistan'da bir Türk gezgini iseniz ve Rusça biliyorsanız, Rusça ülkenin ikinci resmi dili olduğundan pek çok işinizi görebilirsiniz ancak Kırgız halkının kültürel birikimine erişemezsiniz. Çalan ırları (sözlü türküler) da yazan özlü sözleri de anlayamazsınız.
 
 - Kırgızistan'da bir Türk gezgini iseniz ve **bilinçli** biçimde Türkçe konuşmaya çalışırsanız, işte o zaman gerçek iletişim başlar. Karşılaştığınız insanlar sizi daha çok severler ve benzer biçimlerde size yanıt verirler. Hiç görmediğiniz akrabalarınızla ilk defa tanışmak gibidir. Bunu başardığınız ölçüde size kapılar açılır. Onlardan birisinizdir. Aynı dili konuşuyor, aynı birikimi paylaşıyorsunuzdur. Aynı tarihi yaşamışsınızdır. Size 'bır togan' (bir doğan) derler. Siz Aşık Veysel'den okursunuz onlar Toktogul Satılganov'dan okurlar. Atasözleriniz birdir. Gelenek görenekleriniz değişmemiştir.
 
@@ -72,7 +73,7 @@ Bütün bu dillerin ortak çok sayıda sözcük ve dil bilgisi yapıları olduğ
 > 
 > ![20-Yuan](/assets/img/posts/atayurt-gezileri-1/20-yuan.png){: width="350" height="200" }
 > 
-> Kağıt paranın sağ üst köşesinde Arap harfleri ile Uygurca yazmaktadır.
+> _Kağıt paranın sağ üst köşesinde Arap harfleri ile Uygurca yazmaktadır._
 {: .prompt-warning }
 
 
@@ -115,7 +116,11 @@ Restoran: aş hana
 ```
 {: file='Kırgızların Türkçelerini kullanırken bizim yabancılarını kullandığımız sözcüklerin bir kısmı'}
 
-Ne güzel değil mi? Tamamını anlayabildiğimiz Türkçe sözcükler :) Okullarda bilim derslerinde kullanılan sözcüklere de böyle özen gösterilse herkes konuları çok daha iyi anlamaz mı? Atatürk'ün o kadar işinin gücünün arasında geometri eğitiminde kullanılacak Türkçe sözcükleri araştırıp belirlemesinin sebebi de tam olarak bu değil miydi? Yeni bir kavram anlatılırken insanların bildikleri sözcükler kullanılır ki yardımcı olsun. Hem kavramı bilmeyip hem de kavramı anlatmaya çalışan yabancı sözcüğü anlamazsak nasıl öğreniriz? Yazılım mühendisliği eğitimim sırasında karşılaştığım `virtual method`,`encapsulation` ve `polymorphism` gibi kavramları gerçekten anlamam belki de aylar sürdü. İlk başta bu kavramlar öğretilirken Türkçe'leri sunulsaydı 5 dakikada bu kavramları anlamış olurdum. Yine mesleğimizde kullanılan `monad` sözcüğüne karşılık gelen kavramı şuanda bu yazıyı yazarken hala bilmediğimi itiraf ediyorum. Belki de toplamda 25 kez öğrenip tekrar unuttuğum bir kavram. Gerektiğinde her seferinde açıp bakarım ve "haaaaaa buydu bu tamam" diyerek hatırlarım. Bu konuya bir başka yazıda daha kapsamlı olarak yer verelim :).
+Ne güzel değil mi? Tamamını anlayabildiğimiz Türkçe sözcükler :) Okullarda bilim derslerinde kullanılan sözcüklere de böyle özen gösterilse herkes konuları çok daha iyi anlamaz mı? Atatürk'ün o kadar işinin gücünün arasında geometri eğitiminde kullanılacak Türkçe sözcükleri araştırıp belirlemesinin sebebi de tam olarak bu değil miydi? Yeni bir kavram anlatılırken insanların bildikleri sözcükler kullanılır ki yardımcı olsun. Hem kavramı bilmeyip hem de kavramı anlatmaya çalışan yabancı sözcüğü anlamazsak nasıl öğreniriz?
+
+Lise'de önümüze konulan `integral` sözcüğünün gerçekten ne ifade ettiğini ancak üniversitede mühendislik matematiği dersini aldıktan sonra anladım. Meğer o havalı latin integralinin aslında yaptığı sadece `bütünlemek`miş. Türkçe `bütünleyici` veya `tamlayıcı` denilseydi ve basit bir alan veya hacim hesaplamasında nasıl kullanılabileceği kısaca gösterilseydi, liseyi bitirdikten sonra sıvacı bile olsam bu kavramı özümseyip gündelik hayatımda kullanıyor olurdum. Sıva işi günün sonunda iki boyutta integral hesabıdır.
+
+Yazılım mühendisliği eğitimim sırasında karşılaştığım `virtual method`,`encapsulation` ve `polymorphism` gibi bazı kavramları ise gerçekten anlamam aylar sürdü. İngilizcem vardı ama bu sözcüklerin ne kadar İngilizce oldukları tartışılır. İlk başta bu kavramlar öğretilirken Türkçe'leri sunulsaydı 5 dakikada bu kavramları anlamış olurdum. Yine mesleğimizde kullanılan `monad` sözcüğüne karşılık gelen kavramı şuanda bu yazıyı yazarken hala bilmediğimi itiraf ediyorum. Belki de toplamda 25 kez öğrenip tekrar unuttuğum bir kavram. Gerektiğinde her seferinde açıp bakarım ve "haaaaaa buydu bu tamam" diyerek hatırlarım. Bu konuya bir başka yazıda daha kapsamlı olarak yer verelim :).
 
 
 Peki bütün bu zamana kadar öğrendiğimiz sözcüklerin hangilerinin hangi kökenden olduğunu nasıl bileceğiz?
@@ -302,6 +307,8 @@ Gökçe Birgen ve Arı Duru Türkçe adlı sosyal medya kanalları bu konularda 
 Anadolu Üniversite'nin Çağdaş Türk Yazı Dilleri adı altında 2 cilt kitabı var.
 Harika bir kaynak. Çok faydalandım. Bu kitaptan sadece dil bilgisi kurallarını şöyle bir gözden geçirseniz bile olur. Geçmiş zaman eki, şimdiki zaman eki, çoğul eki gibi ekleri bir kez öğrenmek gerek sadece. Türkçe (öbür pek çok dilin aksine), kendi içerisinde bir bilgisayar derleyicisi kadar tutarlı bir dil olduğu için bütün dil bilgisi kurallarını sadece bir kez öğrenince dilin tamamı öğrenilmiş oluyor ve her durumda çalışıyor.
 
+ Bilgisayar derleyicisine benzetmemin nedeni Türkçe'nin kurallarının bir kez tanımlandıktan sonra bütün sözcüklerin bu kurallara istisnasız uymasını sağlamasında yatıyor. Tıpkı titizlikle çalışan bir bilgisayar kodu derleyicisi gibi. İstisna yaratan sözcükler ise zaten başka dillerden alınmış sözcükler oluyorlar. Aşağıdaki örneklerde de göreceğiniz gibi `görüp çatmak`, `gelip yürümek` ve `okuyup durmak` eylemlerinin çekimleri aynı. İstediğiniz eylemi koyun, hepsinde çalışır.
+
 ```
 körüp catamın (görüyorum)
 körüp catasıñ
@@ -317,6 +324,8 @@ okup turasıñ
 okup turat
 ```
 {: file='Kırgızca dil bilgisi'}
+
+ Öbür diller bu kadar titiz değiller. Bizzat tecrübemin olduğu İngilizce, Fransızca, Almanca ve İtalyanca dillerinde kurallar zayıf kaldığı için kuralları bilmeniz dili anlamanız ya da konuşmanız için yeterli değil. Bütün kuralları öğrendikten sonra bu kuralları etkisiz kılan çok sayıda istisnanın tek tek ezberlenmesi gerekiyor. Türkçe'de ise kurallar bir kez öğrenildiğinde bütün sözcükler bu kurallara uymak zorunda. Bu yüzden Türkçe öğrenmek bahsettiğim diğer dillere göre çok daha kolay.
 
 Bu kitapları veya benzer içerikler sağlayan başka kitapları okumanızı öneririm. Aynı zamanda Anadolu Üniversitesi'nin 2 cilt de Çağdaş Türk Edebiyatları üzerine kitapları var. Onları da okumanızı öneririm.
 
