@@ -64,6 +64,9 @@ Türkçe Altaylardan Tunaya kadar anadil olarak konuşulan bir dildir.
 Bizim konuştuğumuz İstanbul Türkçesi, günümüzde konuşulan Çağdaş Türk Dilleri'nden sadece bir tanesidir. Azerbaycan Türkçesi, Türkmen Türkçesi, Özbek Türkçesi, Uygur Türkçesi, Tatar Türkçesi, Kazak Türkçesi ve Kırgız Türkçesi de bu dillerin arasındadır.
 Bütün bu dillerin ortak çok sayıda sözcük ve dil bilgisi yapıları olduğu için güçlü bir iletişim için yapmanız tek gereken, konuşurken bu ortaklıkların etrafında dolanmanız. Gerekli sözcükler ve kuralları zaten biliyorsunuz. Sadece bildikleriniz arasından bazılarını seçip kullanmanız bazılarını ise değiştirerek kullanmanız gerekiyor. Bilinçli konuşmak işte burada başlıyor. Konuşurken aşağıdaki anlatacağim 6 kurala önem verirseniz anlaşılma oranınız çok yüksek olacaktır.
 
+> Eğer Anadolu'nun başka bir yerinde konuşulan Türkçe'ye hakimseniz gittiğiniz yerde İstanbul Türkçesi yerine o Türkçe'yi konuşun. O Türkçe çok daha yakın olacaktır gideceğiniz ülkede konuşulan Çağdaş Türk Dili'ne. Örneğin çamaşırlar için `yıkamak` yerine `yumak` fiili kullanılır Kars'ta da Yozgat'ta da Bişkek'te de, Çimkent'te de, Taşkent'te de.
+{: .prompt-info }
+
 
 > Bugün  Çin'deki bütün kağıt paralarının sağ üst köşesinde Türkçe yazdığını biliyor muydunuz?
 > 
