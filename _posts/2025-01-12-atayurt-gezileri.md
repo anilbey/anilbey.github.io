@@ -71,7 +71,7 @@ Bütün bu dillerin ortak çok sayıda sözcük ve dil bilgisi yapıları olduğ
 
 > Bugün  Çin'deki bütün kağıt paralarının sağ üst köşesinde Türkçe yazdığını biliyor muydunuz?
 > 
-> ![20-Yuan](/assets/img/posts/atayurt-gezileri-1/20-yuan.png){: width="350" height="200" }
+> ![20-Yuan](/assets/img/posts/atayurt-gezileri-1/20-yuan.png){: width="650" height="400" }
 > 
 > _Kağıt paranın sağ üst köşesinde Arap harfleri ile Uygurca yazmaktadır._
 {: .prompt-warning }
