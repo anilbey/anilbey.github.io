@@ -127,6 +127,12 @@ Peki bütün bu zamana kadar öğrendiğimiz sözcüklerin hangilerinin hangi k�
 
 Bu ilk başta zor gelebilir ama çok kolay bir yöntemi var. Oturup düşüneceğiz. Düşünüp bulabildiğimiz sözcükler Türkçe. Düşünüp bulamayıp da ezberlememiz gereken sözcükler yabancı kaynaklı. Bu iş bu kadar basit.
 
+![Birlik bolmai tirlik bolmas](/assets/img/posts/atayurt-gezileri-1/birlik-bolmai-tirlik-bolmas.jpg){: width="850" height="350" }
+_Birlik bolmai, tirlik bolmas_
+
+> Birlik olmazsa dirlik olmaz.
+> Kazak birikmezse baht konup, ırıs (bolluk bereket) dolmaz
+
 Örneğin `Merdiven`. Ne demek şimdi bu? `Mer-di-ven`. Benim için hiç bir anlamı yok. Bir de `basamak` demek var. `Bas-a-mak`. Basıp aşmak. Basıp yukarı çıkmak. Bu anlamlı bir sözcük. Düşünüp bulabiliriz. O zaman `merdiven` yabancı kökenli olmalı. Doğru tahmin ettiniz. Farsça kökenli. Merdiven derseniz anlamazlar. Merdivene en yakın basamağı biliyoruz. Basamak veya basamaklar deyin. Tamamen aynı anlama gelmese bile oldukça yakın ve Türkçe düşünüp bulunulabilecek bir sözcük olduğu için sizi anlarlar. Kazakçası bu arada `baspaldak`.
 
 Bir başka örnek:
